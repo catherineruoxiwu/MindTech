@@ -1,0 +1,7 @@
+* {
+    text-transform: uppercase;
+    color: rgb(0, 219, 131);
+    align-items: end;
+    width: calc(100% - 250px);
+    overflow: scroll;
+}
