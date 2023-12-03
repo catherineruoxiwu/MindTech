@@ -1,15 +1,25 @@
+import json
+import os
+# import matplotlib.pyplot as plt
 from openai import OpenAI
+
 client = OpenAI()
+directory_path = "./out"
+num_questions = 100
 
 def evaluate_QA(qa_pairs):
     """
     Args:
-        qa_pairs: list of objects {"question": ..., "answer": ...}
+        qa_pairs: list of objects {"model_name": ..., "question": ..., "answer": ...}
     """
     num_models = len(qa_pairs)
     role_prompt = f"""Please act as an impartial judge and evaluate the quality of the responses provided by {num_models} AI psychiatrist models to the client's complaint or questions.
-    Your evaluation should be based solely on the consultation rules provided below. You cannot solely judge the quality based on "whether or not more advice or suggestions are given". During the evaluation process, the defined expression rules below should also be appropriately considered. For each of the {num_models} question-answer pairs, produce separate evaluation rubric results. After evaluating the {num_models} models, decide which AI psychiatrist model is the best model.
-    
+    Your evaluation should be based solely on the consultation rubric provided at the end, titled "Therapist Bot Conversation Evaluation Rubric". You cannot solely judge the quality based on "whether or not more advice or suggestions are given". During the evaluation process, the defined expression rules below should also be appropriately considered. For each of the {num_models} question-answer pairs, produce separate evaluation rubric results. After evaluating the {num_models} models, decide which AI psychiatrist model is the best model.
+
+    Your response should be in JSON format. The output JSON format should be:
+        {{"rubric_results": {{"0": INSERT_RUBRIC_RESULT_HERE, ..., "{num_models - 1}": INSERT_RUBRIC_RESULT_HERE}},
+          "best_model": INSERT_INDEX_OF_BEST_MODEL }}
+     
     **Therapist Bot Conversation Evaluation Rubric**
     **Category 1: Rapport and Engagement**
     1. Establishing Rapport (1-5) 
@@ -54,28 +64,54 @@ def evaluate_QA(qa_pairs):
     **Overall Score:** 
         - Sum the scores from each category to determine the overall rating for the therapist bot's conversation. The rating scale (1-5) can be defined as follows: - 1 = Inadequate - 2 = Needs Improvement - 3 = Proficient - 4 = Very Good - 5 = Excellent 
     *** The rubric is provided above.
-    
-    Now decide which AI psychiatrist model is the best model according to the rubric results."""
+    """
 
     eval_prompt = ""
     for i, qa_pair in enumerate(qa_pairs):
-        question, answer = qa_pair["question"], qa_pair["answer"]
-        eval_prompt += f"AI psychiatrist model #{i}:\n\tQuestion: {question}\n\tAnswer: {answer}\n\n"
+        model_name, question, answer = qa_pair["model_name"], qa_pair["question"], qa_pair["answer"]
+        eval_prompt += f"AI psychiatrist model #{i}:\n\tModel name: {model_name}\n\tQuestion: {question}\n\tAnswer: {answer}\n\n"
 
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": role_prompt},
             {"role": "user", "content": eval_prompt}
-        ]
+        ],
+        response_format={"type": "json_object"}
     )
 
-    print(completion.choices[0].message)
+    return json.loads(completion.choices[0].message.content)
 
-def evaluate_models(model_results):
+def evaluate_models(num_questions, model_results):
     """
     Args:
-        model_results: list of {"1": {"question": ..., "answer": ...}, 
+        model_results: list of {"model_name": ...,
+                                "1": {"question": ..., "answer": ...}, 
                                 "2": {"question": ..., "answer": ...}, ...}
     """
-    pass
+    best_model_res = [0] * len(model_results)
+    for i in range(1, num_questions + 1):
+        qa_pairs = []
+        for model in model_results:
+            pair = model[str(i)]
+            pair["model_name"] = model["model_name"]
+            qa_pairs.append(pair)
+        eval_res = evaluate_QA(qa_pairs)
+        best_model = int(eval_res["best_model"])
+        best_model_res[best_model] += 1
+    print(best_model_res)
+
+def parse_input_files():
+    model_results = []
+    for filename in os.listdir(directory_path):
+        if filename.endswith(".json"):
+            model_name = os.path.splitext(os.path.basename(filename))[0]
+            file_path = os.path.join(directory_path, filename)
+            with open(file_path, "r") as file:
+                model_result = json.load(file)
+                model_results.append(model_result)
+    return model_results
+
+# if __name__ == "__main__":
+#     model_results = parse_input_files()
+#     evaluate_models(num_questions, model_results)
