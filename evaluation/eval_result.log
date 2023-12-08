@@ -1,0 +1,2692 @@
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall_Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall_Score": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.5
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3,
+            "Overall Score": 3.25
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall_Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall_Score": 3.75
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 2,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 3,
+            "Overall Score": 3.25
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": "0",
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall_Score": 3.875
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall_Score": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.9
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 5,
+            "Overall Score": 4.375
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 2,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 5,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 5,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 5,
+            "Overall Score": 4.5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.9
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.9
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 2,
+            "Interventions_and_Techniques": 2,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 5,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4,
+            "Overall Score": 4.1
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 5,
+            "Overall Score": 4.5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 2,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 5,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 2,
+            "Interventions_and_Techniques": 2,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3,
+            "Overall Score": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.25
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall_Score": 3.6
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall_Score": 3.9
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.25
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall_Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall_Score": 3.5
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.6
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 2,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 2,
+            "User_Experience": 5
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.75
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 5,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 3,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.25
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3,
+            "Overall Score": 3.25
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 5,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.125
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 5,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 5,
+            "Active_Listening": 5,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 5,
+            "Overall Score": 4.625
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.625
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 5,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.13
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 4,
+            "User_Experience": 3,
+            "Overall Score": 3.63
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4.25
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 4,
+            "Overall Score": 3.875
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 4,
+            "User_Experience": 4,
+            "Overall Score": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 3,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 5,
+            "Cultural_Competence": 3,
+            "User_Experience": 3,
+            "Overall Score": 3.4
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 5,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 3,
+            "Active_Listening": 3,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 3,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 3
+        }
+    },
+    "best_model_idx": 0,
+    "best_model_name": "gpt3.5-turbo-d3-prompt"
+}
+{
+    "rubric_results": {
+        "gpt3.5-turbo-d3-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 3,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        },
+        "gpt3.5-turbo-unpolished-prompt": {
+            "Establishing_Rapport": 4,
+            "Active_Listening": 4,
+            "Verbal_Communication": 4,
+            "Assessment_and_Goal_Setting": 4,
+            "Interventions_and_Techniques": 4,
+            "Boundaries_and_Ethics": 4,
+            "Cultural_Competence": 3,
+            "User_Experience": 4
+        }
+    },
+    "best_model_idx": 1,
+    "best_model_name": "gpt3.5-turbo-unpolished-prompt"
+}
+{
+    "gpt3.5-turbo-d3-prompt": {
+        "num_best": 62,
+        "Establishing_Rapport": 4.0,
+        "Active_Listening": 4.0606060606060606,
+        "Verbal_Communication": 4.101010101010101,
+        "Assessment_and_Goal_Setting": 3.484848484848485,
+        "Interventions_and_Techniques": 3.1717171717171717,
+        "Boundaries_and_Ethics": 4.404040404040404,
+        "Cultural_Competence": 3.585858585858586,
+        "User_Experience": 4.01010101010101
+    },
+    "gpt3.5-turbo-unpolished-prompt": {
+        "num_best": 37,
+        "Establishing_Rapport": 3.797979797979798,
+        "Active_Listening": 3.909090909090909,
+        "Verbal_Communication": 4.0,
+        "Assessment_and_Goal_Setting": 3.4343434343434343,
+        "Interventions_and_Techniques": 3.4646464646464645,
+        "Boundaries_and_Ethics": 4.404040404040404,
+        "Cultural_Competence": 3.515151515151515,
+        "User_Experience": 3.898989898989899
+    }
+}
