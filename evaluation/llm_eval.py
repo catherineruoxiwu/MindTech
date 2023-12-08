@@ -184,30 +184,6 @@ def parse_input_files(exclude):
 
 
 if __name__ == "__main__":
-    # idx_name, model_results = parse_input_files(exclude)
-    # eval_stat = evaluate_models(num_questions, model_results)
-    eval_stat = {
-        "gpt3.5-turbo-prompt-v2-paper": {
-            "num_best": 62,
-            "Establishing_Rapport": 4.0,
-            "Active_Listening": 4.0606060606060606,
-            "Verbal_Communication": 4.101010101010101,
-            "Assessment_and_Goal_Setting": 3.484848484848485,
-            "Interventions_and_Techniques": 3.1717171717171717,
-            "Boundaries_and_Ethics": 4.404040404040404,
-            "Cultural_Competence": 3.585858585858586,
-            "User_Experience": 4.01010101010101
-        },
-        "gpt3.5-turbo-prompt-v1": {
-            "num_best": 37,
-            "Establishing_Rapport": 3.797979797979798,
-            "Active_Listening": 3.909090909090909,
-            "Verbal_Communication": 4.0,
-            "Assessment_and_Goal_Setting": 3.4343434343434343,
-            "Interventions_and_Techniques": 3.4646464646464645,
-            "Boundaries_and_Ethics": 4.404040404040404,
-            "Cultural_Competence": 3.515151515151515,
-            "User_Experience": 3.898989898989899
-        }
-    }
+    idx_name, model_results = parse_input_files(exclude)
+    eval_stat = evaluate_models(num_questions, model_results)
     plot_evaluation_chart(eval_stat)
